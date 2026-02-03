@@ -5,6 +5,7 @@ A quantitative trading strategy project built in Python. This project implements
 - i used this video when reasearching and planning this proejct - [Youtube Video](https://www.youtube.com/watch?v=Ozrb5uelqz8)
 - i'm also reading and refrencing this book when looking for proejct ideas - [Building Automated Quantitative Trading Systems](https://www.amazon.co.uk/Building-Automated-Quantitative-Trading-Systems/dp/9334453508)
 
+this article gives a good overview of the stratgy - [Investopedia](https://www.investopedia.com/terms/l/long-shortequity.asp)
 ## Overview
 
 The core hypothesis is that stock returns often revert to the mean. By calculating the average performance of a portfolio and trading the deviations:
