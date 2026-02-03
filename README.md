@@ -26,7 +26,7 @@ The core hypothesis is that stock returns often revert to the mean. By calculati
 
 - Dynamic rebalancing ensured that the net exposure remained low, with weights adjusting daily based on the magnitude of each stock's deviation from the group mean.
 
-## 🛠️ Technical Implementation
+## Technical Implementations
 
 **1. Data Pipeline:**
 - Fetched 5 years of data for `SPY`, `META`, `GOOGL`, and `MSFT` using `yfinance`.
