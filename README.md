@@ -1,4 +1,4 @@
-# Long-Short Equity Strategy: Tech Sector Focus
+# Simple Long Short Equity Strategy In Python 
 
 A quantitative trading strategy project built in Python. This project implements a **market-neutral approach** by going long on underperforming stocks and short on overperforming ones, aiming to capture mean reversion (SPY, META, GOOGL, MSFT).
 
