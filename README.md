@@ -6,6 +6,13 @@ A quantitative trading strategy project built in Python. This project implements
 - i'm also reading and refrencing this book when looking for proejct ideas - [Building Automated Quantitative Trading Systems](https://www.amazon.co.uk/Building-Automated-Quantitative-Trading-Systems/dp/9334453508)
 
 this article gives a good overview of the stratgy - [Investopedia](https://www.investopedia.com/terms/l/long-shortequity.asp)
+
+## Notes on This Strategy
+
+A good reason to deploy a strategy like this one is that it gives investors the ability to generate positive returns in both rising and falling markets. By combining anticipated growth with short positions, this puts your portfolio at less risk and provides superior returns during market downturns in comparison with a traditional long-only strategy.
+
+
+
 ## Overview
 
 The core hypothesis is that stock returns often revert to the mean. By calculating the average performance of a portfolio and trading the deviations:
