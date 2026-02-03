@@ -2,8 +2,8 @@
 
 A quantitative trading strategy project built in Python. This project implements a **market-neutral approach** by going long on underperforming stocks and short on overperforming ones, aiming to capture mean reversion (SPY, META, GOOGL, MSFT).
 
-i used this video when reasearching and planning this proejct - https://www.youtube.com/watch?v=Ozrb5uelqz8
-i'm also reading and refrencing this book when looking for proejct ideas - https://www.amazon.co.uk/Building-Automated-Quantitative-Trading-Systems/dp/9334453508
+i used this video when reasearching and planning this proejct - [Youtube Video](https://www.youtube.com/watch?v=Ozrb5uelqz8)
+i'm also reading and refrencing this book when looking for proejct ideas - Building [Automated Quantitative Trading Systems](https://www.amazon.co.uk/Building-Automated-Quantitative-Trading-Systems/dp/9334453508)
 
 ## Overview
 
